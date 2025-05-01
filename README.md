@@ -11,5 +11,24 @@ II: Unsupervised Learning
 III: Reinforcement Learning
 
 
+Techniques Covered:
+1. Linear modeling
+2. Regression flavors: Multiple, polynomial, regularized
+3. Logistic regression and classification metrics
+4. Margin based classifiers
+5. Tree based classifiers – bagging and boosting
+6. Regression & Classification with feedforward ANNs
+7. Regression & Classification with deep & recurrent networks
+8. Linear Dimensionality Reduction
+9. Multi-Dimensional Scaling & Unfolding
+10. Linear and nonlinear dimensionality reduction methods
+11. Clustering methods
+12. Unsupervised ANNs - autoencoders and self-organizing maps
+13. Reinforcement Learning
+14. Deep Reinforcement Learning
+15. Reinforcement Learning and generative AI
+
+
+
 The included materials demonstrate the knowledge gained in the techniques and approaches introduced within the class, through the form of 5 homework assignments and 1 capstone project. Please acquaint yourself with each file, as they all tell a different story about the methodologies learned in the course. 
 
