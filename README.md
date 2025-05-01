@@ -6,10 +6,10 @@ As data and computational resources become ever more abundant, the ability to le
 
 The class material is organized by 4 major theme blocks:
 
-0: Fundamental bookends 
-I: Supervised Learning
-II: Unsupervised Learning
-III: Reinforcement Learning
+ ## 0: Fundamental bookends 
+ ## I: Supervised Learning
+## II: Unsupervised Learning
+## III: Reinforcement Learning
 
 
 Techniques Covered:
