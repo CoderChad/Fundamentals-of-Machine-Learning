@@ -6,28 +6,26 @@ As data and computational resources become ever more abundant, the ability to le
 
 The class material is organized by 4 major theme blocks:
 
- ## 0: Fundamental bookends 
- ## I: Supervised Learning
+## 0: Fundamental bookends
+1. Essential Mathematics for Machine Learning
+## I: Supervised Learning
+2. Linear modeling
+3. Regression flavors: Multiple, polynomial, regularized  <br />
+4. Logistic regression and classification metrics  <br />
+5. Margin based classifiers  <br>
+6. Tree based classifiers – bagging and boosting  <br>
+7. Regression & Classification with feedforward ANNs   <br>
+8. Regression & Classification with deep & recurrent networks   <br>
 ## II: Unsupervised Learning
+9.Linear Dimensionality Reduction <br />
+10. Multi-Dimensional Scaling & Unfolding <br />
+11. Linear and nonlinear dimensionality reduction methods <br />
+12. Clustering methods <br />
+13. Unsupervised ANNs - autoencoders and self-organizing maps <br />
 ## III: Reinforcement Learning
-
-
-Techniques Covered:
-1. Linear modeling
-2. Regression flavors: Multiple, polynomial, regularized
-3. Logistic regression and classification metrics
-4. Margin based classifiers
-5. Tree based classifiers – bagging and boosting
-6. Regression & Classification with feedforward ANNs
-7. Regression & Classification with deep & recurrent networks
-8. Linear Dimensionality Reduction
-9. Multi-Dimensional Scaling & Unfolding
-10. Linear and nonlinear dimensionality reduction methods
-11. Clustering methods
-12. Unsupervised ANNs - autoencoders and self-organizing maps
-13. Reinforcement Learning
-14. Deep Reinforcement Learning
-15. Reinforcement Learning and generative AI
+14. Reinforcement Learning  <br />
+15. Deep Reinforcement Learning <br />
+16. Reinforcement Learning and generative AI <br />
 
 
 
